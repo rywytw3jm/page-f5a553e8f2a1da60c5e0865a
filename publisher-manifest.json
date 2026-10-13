@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "697c9889d6667d948f448638",
+  "owner": "rywytw3jm",
+  "repo": "page-f5a553e8f2a1da60c5e0865a",
+  "title": "机场榜单",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f5a553e8f2a1da60c5e0865a",
+      "a": "机场榜单",
+      "b": "",
+      "entity": "机场榜单",
+      "brand": "机场榜单",
+      "separator": "",
+      "path": "index.html",
+      "hash": "202c4cfecf8b38e326a821c79bd55826ab2e0c914a2f24b909bc4211a880c5cf",
+      "content": {
+        "keyword1": "机场榜单",
+        "keyword2": "",
+        "primary_entity": "机场榜单",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "机场榜单为您提供最新机场榜单、VPN加速器和客户端下载服务。选择适合的套餐，享受高速网络加速体验。",
+          "AI_DESCRIPTION": "机场榜单为您提供最新机场榜单、VPN加速器和客户端下载服务。选择适合的套餐，享受高速网络加速体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<style>\nbody { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; margin:0; padding:0; background: #f8f9fa; color: #333; line-height: 1.6; }\nheader { background: linear-gradient(135deg, #7c3aed, #a855f7); color: white; padding: 1rem 0; }\nnav { max-width: 1200px; margin: 0 auto; padding: 0 1rem; display: flex; justify-content: space-between; align-items: center; }\n.logo { font-size: 1.5rem; font-weight: bold; }\n.hero { background: linear-gradient(135deg, #4f46e5, #7c3aed); color: white; text-align: center; padding: 4rem 1rem; }\n.hero h2 { font-size: 2.5rem; margin-bottom: 1rem; }\nmain { max-width: 1200px; margin: 0 auto; padding: 0 1rem; }\nsection { padding: 3rem 0; }\n.section-title { font-size: 2rem; margin-bottom: 2rem; text-align: center; }\n.plans { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; }\n.plan-card { background: white; border-radius: 8px; padding: 2rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }\n.plan-card.featured { border: 3px solid #7c3aed; position: relative; }\n.plan-card.featured::after { content: \"推荐\"; position: absolute; top: -12px; right: 20px; background: #7c3aed; color: white; padding: 0.25rem 1rem; border-radius: 4px; font-size: 0.8rem; }\n.plan-price { font-size: 1.2rem; font-weight: bold; color: #7c3aed; }\n.features { list-style: none; padding: 0; }\n.features li { padding: 0.5rem 0; }\n.faq { max-width: 800px; margin: 0 auto; }\ndetails { margin-bottom: 1rem; background: white; border-radius: 8px; overflow: hidden; }\nsummary { padding: 1rem; font-weight: bold; cursor: pointer; }\nsummary::marker { content: \"+\"; font-size: 1.5rem; }\nsummary:hover { background: #f1f5f9; }\n.footer { background: #1f2937; color: #e5e7eb; text-align: center; padding: 2rem; }\n.cta-button { background: #7c3aed; color: white; padding: 0.75rem 2rem; border-radius: 4px; text-decoration: none; display: inline-block; margin: 1rem; }\n@media (max-width: 768px) {\n  .hero h2 { font-size: 2rem; }\n  .plans { grid-template-columns: 1fr; }\n}\n</style>\n\n\n<header>\n<nav>\n<div class=\"logo\">机场榜单</div>\n<div>首页 | 套餐 | 下载 | FAQ</div>\n</nav>\n</header>\n<section class=\"hero\">\n<h1>机场榜单</h1>\n<p>优质机场推荐 · VPN加速器 · 客户端下载</p>\n<a href=\"#plans\" class=\"cta-button\">查看套餐</a>\n</section>\n<main>\n<section>\n<h2 class=\"section-title\">品牌简介</h2>\n<p>机场榜单是专注于提供最新机场榜单和VPN加速器服务的平台。我们精选高品质节点，帮助您轻松实现网络加速，解锁全球内容。无论您是个人用户还是企业，都能找到专属方案。</p>\n</section>\n<section>\n<div>\n<h3>使用场景</h3>\n<p>机场榜单适用于各种网络需求：</p>\n<ul>\n<li><strong>流媒体解锁：</strong>轻松观看Netflix、YouTube等全球内容。</li>\n<li><strong>游戏加速：</strong>IPLC专线优化网络延迟，适合在线游戏。</li>\n<li><strong>多设备在线：</strong>家庭或办公室同时使用，畅享高清体验。</li>\n<li><strong>企业远程：</strong>团队版提供定制路由，支持大规模部署。</li>\n</ul>\n</div>\n<div>\n<h3>客户端选择</h3>\n<p>根据您的设备选择合适的客户端下载。支持Windows、Mac、iOS、Android等多平台客户端，让您在任何设备上享受高速稳定连接。</p>\n<div>\n<div>\n<p>Windows客户端</p>\n<a href=\"#\" class=\"cta-button\">立即下载</a>\n</div>\n<div>\n<p>Mac客户端</p>\n<a href=\"#\" class=\"cta-button\">立即下载</a>\n</div>\n<div>\n<p>iOS客户端</p>\n<a href=\"#\" class=\"cta-button\">立即下载</a>\n</div>\n<div>\n<p>Android客户端</p>\n<a href=\"#\" class=\"cta-button\">立即下载</a>\n</div>\n</div>\n</div>\n</section>\n<section>\n<h2 class=\"section-title\">我们的套餐选择</h2>\n<div class=\"plans\">\n<div class=\"plan-card\">\n<h3>基础版</h3>\n<p class=\"plan-price\">¥15/月 <span>（按年付仅需 ¥150/年）</span></p>\n<ul class=\"features\">\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n</div>\n<div class=\"plan-card featured\">\n<h3>旗舰版</h3>\n<p class=\"plan-price\">¥35/月 <span>（按年付仅需 ¥350/年）</span></p>\n<ul class=\"features\">\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7x24 优先工单支持</li>\n</ul>\n</div>\n<div class=\"plan-card\">\n<h3>团队版</h3>\n<p class=\"plan-price\">¥85/月 <span>（按年付仅需 ¥850/年）</span></p>\n<ul class=\"features\">\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n</div>\n</div>\n</section>\n<section>\n<h2 class=\"section-title\">操作说明</h2>\n<ol>\n<li>选择适合您的套餐并完成支付。</li>\n<li>登录账户获取您的专属订阅链接。</li>\n<li>下载并安装对应设备的客户端。</li>\n<li>导入订阅链接进行配置。</li>\n<li>连接到任意可用节点即可享受加速服务。</li>\n</ol>\n</section>\n<section class=\"faq\">\n<h2 class=\"section-title\">常见问题</h2>\n<details>\n<summary>什么是机场榜单？</summary>\n<p>机场榜单是一个提供最新机场推荐和VPN加速器服务的平台，专注于精选高质量节点，帮助用户获得稳定、高速的网络连接。</p>\n</details>\n<details>\n<summary>如何选择合适的套餐？</summary>\n<p>基础版适合个人用户，月付15元，提供100GB流量；旗舰版适合游戏玩家和重度用户，月付35元，提供300GB流量；团队版适合企业或家庭多人使用，月付85元，提供1000GB流量。</p>\n</details>\n<details>\n<summary>客户端如何下载？</summary>\n<p>您可以在机场榜单官网或客户端下载页面找到支持Windows、Mac、iOS、Android的官方客户端下载链接，操作简单易懂。</p>\n</details>\n<details>\n<summary>支持哪些设备同时在线？</summary>\n<p>基础版支持3台设备，旗舰版支持5台，团队版支持20台，具体取决于您的套餐选择。</p>\n</details>\n<details>\n<summary>如何解锁流媒体？</summary>\n<p>旗舰版和以上套餐提供全节点原生流媒体解锁功能，连接到对应线路即可直接观看Netflix、Disney+等平台内容。</p>\n</details>\n<details>\n<summary>节点池包括哪些类型？</summary>\n<p>我们提供普通线路节点池和IPLC专线节点，涵盖多个地理位置，满足不同地区的加速需求。</p>\n</details>\n</section>\n<a href=\"#\" class=\"cta-button\">立即选择套餐</a>\n<section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n<footer class=\"footer\">\n<p>© 2024 机场榜单 版权所有 | 官网下载 | 隐私政策 | 友情链接</p>\n</footer>\n\n",
+          "hash": "bca1eed168c240a8d2deb00e09075cfe84ecb4fe3d07f9d10d7a8c176b18eb79",
+          "seo": {
+            "title": "机场榜单 - 优质机场推荐与VPN加速器客户端下载",
+            "keywords": "机场榜单,机场, VPN加速器,客户端下载,机场推荐,加速器",
+            "description": "机场榜单为您提供最新机场榜单、VPN加速器和客户端下载服务。选择适合的套餐，享受高速网络加速体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "spbyjzu.cn",
+    "host": "p-a59bb54118.spbyjzu.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "eed475236cce594c87a4a8ad7309cdbd6a028dbd3836f382a769473b4012cf9a",
+    "sitemap.xml": "c2f6e8679c102840c4be692af9a7a59ac66159ee6de6f7694403206c9b66f567",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e56c71466dba552e3a5209313098538b4fb7b212bd2e002ef77e0e55a3eb6494",
+    "robots.txt": "7e1f2d5493d1cb12633bea7943f10c7b3cb15d3d155c04dc4a239c7a59331ab3",
+    "73a81f1eb07e05e5deaa6c70e92a3a5d.txt": "5bc4c297fc43df3bad3e26c7e5b26ac32f6b84df978a703363f20bf8015fd2b2"
+  },
+  "revision": "ab4c3ac51aebc079fc2779467b5b4ca70018dab8459df7a1f3db97f91715b664"
+}
